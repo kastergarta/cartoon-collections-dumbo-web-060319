@@ -18,4 +18,4 @@ def find_the_cheese(array)
   item.include?(cheese_types)
 end
 end
-end
+
